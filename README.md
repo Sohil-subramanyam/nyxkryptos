@@ -1,3 +1,10 @@
+**#PROTOTYPE LINK**
+GO THROUGH THE LINK BELOW
+**https://ai.studio/apps/drive/1McCK9-_fUlpzOqlacMtj0RiAmDO9kdtJ?fullscreenApplet=true**
+<img width="744" height="401" alt="image" src="https://github.com/user-attachments/assets/7455e743-4a6b-4ab5-92f2-416a7a21c5f0" />
+HERE YOU NEED TO CLICK **CONTINUE TO THE APP**
+YOU WILL HAVE THE WEBSITE PROTOTYPE
+
 # Nyx Kryptos Protocol
 
 **Nyx Kryptos** is a sophisticated decentralized custody system that merges **Threshold Cryptography** with **Generative Steganography**. It allows users to secure sensitive payloads (text and files) by splitting the encryption key into multiple "shards," which are then invisibly embedded into AI-generated artwork.
@@ -31,6 +38,8 @@ Unlike traditional password managers or vaults that rely on a single database en
 1.  Clone the repository.
 2.  Install dependencies: `npm install`
 3.  Set your API Key: `export API_KEY=your_google_gemini_api_key`
+
+
 4.  Run the application: `npm start`
 
 ---
