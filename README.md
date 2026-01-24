@@ -1,7 +1,6 @@
 **#PROTOTYPE LINK**
 GO THROUGH THE LINK BELOW
 **https://ai.studio/apps/drive/1McCK9-_fUlpzOqlacMtj0RiAmDO9kdtJ?fullscreenApplet=true**
-<img width="744" height="401" alt="image" src="https://github.com/user-attachments/assets/7455e743-4a6b-4ab5-92f2-416a7a21c5f0" />
 HERE YOU NEED TO CLICK **CONTINUE TO THE APP**
 YOU WILL HAVE THE WEBSITE PROTOTYPE
 
