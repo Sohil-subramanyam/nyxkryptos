@@ -1,0 +1,5 @@
+{
+  "name": "Nyx Kryptos - Deploy",
+  "description": "A sophisticated decentralized secret sharing system using Threshold Cryptography and Generative Steganography. Secures data by splitting keys into AI-generated art.",
+  "requestFramePermissions": []
+}

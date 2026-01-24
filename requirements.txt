@@ -1,0 +1,13 @@
+# Frontend Dependencies (Node.js/NPM)
+# Install using: npm install
+
+react>=19.0.0
+react-dom>=19.0.0
+@google/genai>=0.1.0
+crypto-js>=4.2.0
+peerjs>=1.5.2
+
+# Dev Dependencies
+typescript
+tailwindcss
+parcel
