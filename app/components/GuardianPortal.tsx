@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { useAuth } from '../context/AuthContext';
-import { networkService } from '../services/networkService';
-import { extractDataFromImage } from '../utils/steganography';
+import { useAuth } from '@/context/AuthContext';
+import { networkService } from '@/services/networkService';
+import { extractDataFromImage } from '@/utils/steganography';
 
 interface Props {
     lobbyId: string;

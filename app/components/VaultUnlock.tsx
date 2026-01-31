@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { reconstructKey, decryptData } from '../utils/crypto';
-import { extractDataFromImage } from '../utils/steganography';
-import { VaultData, SecretPayload } from '../types';
-import { networkService } from '../services/networkService';
-import { useAuth } from '../context/AuthContext';
+import { reconstructKey, decryptData } from '@/utils/crypto';
+import { extractDataFromImage } from '@/utils/steganography';
+import { VaultData, SecretPayload } from '@/types';
+import { networkService } from '@/services/networkService';
+import { useAuth } from '@/context/AuthContext';
 
 interface Props {
   onBack: () => void;

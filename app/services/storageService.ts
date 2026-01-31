@@ -1,4 +1,4 @@
-import { VaultData, StoredShare, PendingArtifact } from '../types';
+import { VaultData, StoredShare, PendingArtifact } from '@/types';
 
 const KEYS = {
     VAULTS: 'nyx_db_vaults',
