@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { useAuth } from '../context/AuthContext';
-import { storageService } from '../services/storageService';
-import { extractDataFromImage } from '../utils/steganography';
-import { reconstructKey, decryptData } from '../utils/crypto';
-import { VaultData, StoredShare, SecretPayload, PendingArtifact } from '../types';
+import { useAuth } from '@/context/AuthContext';
+import { storageService } from '@/services/storageService';
+import { extractDataFromImage } from '@/utils/steganography';
+import { reconstructKey, decryptData } from '@/utils/crypto';
+import { VaultData, StoredShare, SecretPayload, PendingArtifact } from '@/types';
 
 interface Props {
     onCreateNew: () => void;

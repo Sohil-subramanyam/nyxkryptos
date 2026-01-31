@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { generateMasterKey, encryptData, splitKey } from '../utils/crypto';
-import { embedDataInImage } from '../utils/steganography';
-import { generateCoverImage, generateArtPrompt } from '../services/geminiService';
-import { storageService } from '../services/storageService';
-import { GeneratedImage, VaultData, SecretPayload, DecryptedFile } from '../types';
-import { useAuth } from '../context/AuthContext';
+import { generateMasterKey, encryptData, splitKey } from '@/utils/crypto';
+import { embedDataInImage } from '@/utils/steganography';
+import { generateCoverImage, generateArtPrompt } from '@/services/geminiService';
+import { storageService } from '@/services/storageService';
+import { GeneratedImage, VaultData, SecretPayload, DecryptedFile } from '@/types';
+import { useAuth } from '@/context/AuthContext';
 
 interface Props {
   onBack: () => void;
